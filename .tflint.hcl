@@ -1,0 +1,2 @@
+plugin "aws" { enabled = true }
+
